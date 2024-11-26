@@ -6,7 +6,7 @@ $(function() {
         
         // $("tr:even").show("slow");
         
-        // $("tr:even").fadeIn("slow");
+        $("tr:even").fadeIn("slow");
     }); 
     
     $("#cache").click(function() {
@@ -15,6 +15,6 @@ $(function() {
         
         // $("tr:even").hide("slow");
         
-        // $("tr:even").fadeOut("slow");
+        $("tr:even").fadeOut("slow");
     });
 });
